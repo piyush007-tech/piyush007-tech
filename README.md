@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Piyush Yadav<br><br>🎓 Computer Science student<br><br>💻 Interested in Web Development and Software Engineering<br><br>🌱 Currently learning HTML, CSS, JavaScript & Backend basics<br><br>🛠️ Love building small projects to improve problem-solving skills<br><br>📚 Always curious about new technologies<br><br>🤝 Open to collaboration and learning from others
+👋 Hi, I’m Piyush Yadav<br><br>🎓 Computer Science student<br><br>💻 Interested in Web Development and Software Engineering<br><br>🌱 Currently learning HTML, CSS, JavaScript & Backend basics<br><br>🛠️ Love building projects to improve problem-solving skills<br><br>📚 Always curious about new technologies<br><br>🤝 Open to collaboration and learning from others
 
 
 ## 🌐 Socials:
